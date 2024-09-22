@@ -1,16 +1,25 @@
-## Hi there 👋
+## hi! i'm Sameer
 
-<!--
-**sameerCOfficial/sameerCOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+class Sameer:
+    def __init__(self, age, hobbies):
+        self.age = age
+        self.hobbies = hobbies
+
+new_sameer = Sameer(19, ["rock climbing", "basketball", "twisty puzzles", "piano", "fashion"])
+```
+
+### 🐙 about me
+
+hi, I'm Sameer, a junior at the University of Maryland! I'm studying computer science with a minor in philosophy, my primary
+interest is full-stack development. 
+
+### 🦆 tech stack!
+these are the technologies I am most familiar with at this time
+[![Web Development](https://skillicons.dev/icons?i=java,c,html,css,js,mongodb,nodejs,express,react,ts,vue,nextjs)](https://skillicons.dev)
+[![Other Languages](https://skillicons.dev/icons?i=python,cpp)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,eclipse,git)](https://skillicons.dev)
+
+
