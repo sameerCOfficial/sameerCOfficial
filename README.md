@@ -23,6 +23,6 @@ these are the technologies I am most familiar with at this time
 
 [![Other Languages](https://skillicons.dev/icons?i=python,cpp)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=vscode,eclipse,git)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,eclipse,git,figma)](https://skillicons.dev)
 
 
