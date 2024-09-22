@@ -20,7 +20,12 @@ interest is full-stack development.
 
 these are the technologies I am most familiar with at this time
 [![Web Development](https://skillicons.dev/icons?i=java,c,html,css,js,mongodb,nodejs,express,react,ts,vue,nextjs)](https://skillicons.dev)
+
 [![Other Languages](https://skillicons.dev/icons?i=python,cpp)](https://skillicons.dev)
+
 [![Tools](https://skillicons.dev/icons?i=vscode,eclipse,git)](https://skillicons.dev)
+
+# :bar_chart: Stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sameerCOfficial)](https://github.com/anuraghazra/github-readme-stats)
 
 
