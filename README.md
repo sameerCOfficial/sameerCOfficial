@@ -25,7 +25,4 @@ these are the technologies I am most familiar with at this time
 
 [![Tools](https://skillicons.dev/icons?i=vscode,eclipse,git)](https://skillicons.dev)
 
-# :bar_chart: Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sameerCOfficial)](https://github.com/anuraghazra/github-readme-stats)
-
 
