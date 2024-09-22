@@ -21,7 +21,7 @@ interest is full-stack development.
 these are the technologies I am most familiar with at this time
 [![Web Development](https://skillicons.dev/icons?i=java,c,html,css,js,mongodb,nodejs,express,react,ts,vue,nextjs)](https://skillicons.dev)
 
-[![Other Languages](https://skillicons.dev/icons?i=python,cpp)](https://skillicons.dev)
+[![Other Languages](https://skillicons.dev/icons?i=python,cpp,ocaml)](https://skillicons.dev)
 
 [![Tools](https://skillicons.dev/icons?i=vscode,eclipse,git,figma)](https://skillicons.dev)
 
