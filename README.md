@@ -8,7 +8,7 @@ class Sameer:
         self.age = age
         self.hobbies = hobbies
 
-new_sameer = Sameer(19, ["writing", "basketball", "twisty puzzles", "piano", "fashion"])
+new_sameer = Sameer(19, ["film-making", "basketball", "twisty puzzles", "piano", "fashion"])
 ```
 
 ## 🐙 about me
