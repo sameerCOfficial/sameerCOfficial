@@ -14,7 +14,7 @@ new_sameer = Sameer(19, ["film-making", "basketball", "twisty puzzles", "piano",
 ## 🐙 about me
 
 hi, I'm Sameer, a junior at the University of Maryland! I'm studying computer science with a minor in philosophy, my primary
-interest is full-stack development. 
+interest is machine-learning, data analytics & data-science 
 
 ## 🦆 tech stack!
 
