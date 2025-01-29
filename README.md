@@ -19,9 +19,9 @@ interest is machine-learning, data analytics & data-science
 ## 🦆 tech stack!
 
 These are the technologies I am most familiar with at this time
-[![Web Development](https://skillicons.dev/icons?i=java,c,html,css,js,mongodb,nodejs,express,react,ts,vue,nextjs)](https://skillicons.dev)
+[![Web Development](https://skillicons.dev/icons?i=html,css,js,mongodb,nodejs,express,react,ts,vue,nextjs)](https://skillicons.dev)
 
-[![Other Languages](https://skillicons.dev/icons?i=python,cpp,ocaml)](https://skillicons.dev)
+[![Other Languages](https://skillicons.dev/icons?i=python,java,c,ocaml)](https://skillicons.dev)
 
 [![Tools](https://skillicons.dev/icons?i=vscode,eclipse,github,figma)](https://skillicons.dev)
 
